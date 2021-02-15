@@ -1,0 +1,3 @@
+[submodule "apx-gcs"]
+	path = apx-gcs
+	url = git@github.com:uavos/apx-gcs.git
